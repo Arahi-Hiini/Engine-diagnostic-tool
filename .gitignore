@@ -6,6 +6,12 @@ gearbox/
 # Ignore the unzipped ZIP files
 *.zip
 
+# Ignore the processed image data
+processed_data/
+
+# Ignore the trained AI models
+*.pth
+
 # Ignore Python cache and environment files
 __pycache__/
 venv/
