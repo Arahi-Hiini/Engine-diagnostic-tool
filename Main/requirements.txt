@@ -1,0 +1,15 @@
+# Data manipulation and file handling (Trello List 1)
+pandas
+numpy
+
+# Audio processing and feature extraction (Trello List 2)
+librosa
+matplotlib
+
+# Deep Learning and Transfer Learning (Trello List 3)
+torch
+torchvision
+
+# Evaluation metrics and utilities (Trello List 4)
+scikit-learn
+tqdm

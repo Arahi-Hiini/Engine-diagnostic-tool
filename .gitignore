@@ -1,0 +1,15 @@
+# Ignore the raw dataset folders
+bearing/
+valve/
+gearbox/
+
+# Ignore the unzipped ZIP files
+*.zip
+
+# Ignore Python cache and environment files
+__pycache__/
+venv/
+.env
+
+# Ignore the CSV if it's strictly for local processing
+attributes_00.csv
